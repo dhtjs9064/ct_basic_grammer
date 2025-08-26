@@ -1,5 +1,5 @@
 ## HashMap과 HashSet차이
-<br><br>
+<br>
 
 ### 1. 인터페이스
 HashMap은 Map 인터페이스의 구현체로 **<key, value>** 쌍으로 저장한다.
